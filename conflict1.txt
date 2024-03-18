@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello everyone i am kartik
-=======
 Hello Everyone i am Jatin Vaid
->>>>>>> 09cbb1926f0850ea512edf631f1d8b14c937c1e9
+yes
